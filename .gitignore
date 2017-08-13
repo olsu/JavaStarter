@@ -1,6 +1,5 @@
 .gradle/*
 .settings/*
-.vscode/*
 build
 bin
 gradle
